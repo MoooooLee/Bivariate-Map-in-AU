@@ -1,4 +1,5 @@
 README
+
 Overview
 This repository contains resources for creating bivariate maps in R using ggplot2 and biscale. Included are an R script, sample data, and instructions to guide you through the process.
 
