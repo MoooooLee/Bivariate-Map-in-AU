@@ -17,4 +17,4 @@ This project is open-source and available under the GLP3 License.
 
 Contact
 
-For any inquiries or feedback, please contact [Mu Li] at [mu.li@anu.edu.au].
+For any inquiries or feedback, please contact Mu Li at mu.li@anu.edu.au.
