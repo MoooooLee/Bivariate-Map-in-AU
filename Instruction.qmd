@@ -47,7 +47,7 @@ library(biscale)
 
 ```
 ## 1.2 Read Data
-Then, we need to load the data and the map. The data is a fake dataset that contains the Count value and the MMM categorized in 7 groups. The map is the shape file in SA3 levels of Australia published under ASGS2021. 
+Then, we need to load the data and the map. The data is a fake dataset that contains the Count value and the MMM categorized in 7 groups. The map is the shape file in SA3 levels of Australia published under ASGS2021 [@ASGS2021].
 ```{r}
 #| label: 1.2-read-data
 #| include: TRUE
